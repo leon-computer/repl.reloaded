@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps
+ {com.stuartsierra/component {:mvn/version "1.0.0"}
+  org.clojure/tools.namespace {:mvn/version "1.0.0"}}}
