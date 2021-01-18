@@ -17,7 +17,7 @@ If `reset` fails due to bad code you should fix your code and hit `reset` again.
 
 ## `clojure.tools.namespace.repl` gotcha
 
-Sometimes `clojure.tools.namespace.repl` finds too much code like generated ClojureScript source on the classpath. Use `clojure.tools.namespace.repl/set-refresh-dirs` to narrow down the source pathes you want reloaded.
+Sometimes `clojure.tools.namespace.repl` finds too much code like generated ClojureScript source on the classpath. Use `clojure.tools.namespace.repl/set-refresh-dirs` to narrow down the source paths you want reloaded.
 
 ## Other features
 - You may explicitly use `start` and `stop` instead of `reset` but usually won't have to.
@@ -25,6 +25,6 @@ Sometimes `clojure.tools.namespace.repl` finds too much code like generated Cloj
 
 ## License
 
-Copyright © 2020 leon.computer UG (haftungsbeschränkt)
+Copyright © Leon Grapenthin
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
