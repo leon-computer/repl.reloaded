@@ -1,6 +1,6 @@
 # leon.computer.repl.reloaded
 
-Reloaded workflow development tool for systems built with [component](https://github.com/stuartsierra/component).  Uses `clojure.tools.namespace.repl` for code reloading.
+Reloaded workflow development tool for systems built with [component](https://github.com/stuartsierra/component).  Uses `clojure.tools.namespace.repl` for code reloading.  See [the basis projects dev namespace](https://github.com/leon-computer/basis/blob/master/src/dev/backend/dev.clj) as a usage example.
 
 ## Usage
 
